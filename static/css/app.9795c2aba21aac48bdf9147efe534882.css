@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Roboto:300,400,500,70);body{margin:0}#app{font-family:Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:#2c3e50}main{text-align:center;margin-top:40px}header{margin:0;height:56px;padding:0 16px 0 24px;background-color:#35495e;color:#fff}header span{display:block;position:relative;font-size:20px;line-height:1;letter-spacing:.02em;font-weight:400;box-sizing:border-box;padding-top:16px}/*!
+@import url(http://fonts.googleapis.com/css?family=Roboto:300,400,500,70);body{margin:0}#app{font-family:Roboto,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:#2c3e50}.app,.app__body,main{min-height:100%}main{text-align:center;margin-top:40px}header{margin:0;height:56px;padding:0 16px 0 24px;background-color:#35495e;color:#fff}header span{display:block;position:relative;font-size:20px;line-height:1;letter-spacing:.02em;font-weight:400;box-sizing:border-box;padding-top:16px}/*!
 * Vuetify v1.0.17
 * Forged by John Leider
 * Released under the MIT License.
